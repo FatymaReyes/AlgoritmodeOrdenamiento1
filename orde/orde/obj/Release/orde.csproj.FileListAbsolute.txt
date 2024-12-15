@@ -1,0 +1,5 @@
+C:\Users\fr561\Desktop\Victor\Victor\orde\orde\orde\obj\Release\orde.csproj.AssemblyReference.cache
+C:\Users\fr561\Desktop\Victor\Victor\orde\orde\orde\obj\Release\orde.Form1.resources
+C:\Users\fr561\Desktop\Victor\Victor\orde\orde\orde\obj\Release\orde.Properties.Resources.resources
+C:\Users\fr561\Desktop\Victor\Victor\orde\orde\orde\obj\Release\orde.csproj.GenerateResource.cache
+C:\Users\fr561\Desktop\Victor\Victor\orde\orde\orde\obj\Release\orde.csproj.CoreCompileInputs.cache

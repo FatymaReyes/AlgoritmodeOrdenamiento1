@@ -1,0 +1,17 @@
+E:\1 Infor\Proyecto\orde\orde\obj\Debug\orde.csproj.AssemblyReference.cache
+E:\1 Infor\Proyecto\orde\orde\obj\Debug\orde.Form1.resources
+E:\1 Infor\Proyecto\orde\orde\obj\Debug\orde.Properties.Resources.resources
+E:\1 Infor\Proyecto\orde\orde\obj\Debug\orde.csproj.GenerateResource.cache
+E:\1 Infor\Proyecto\orde\orde\obj\Debug\orde.csproj.CoreCompileInputs.cache
+E:\1 Infor\Proyecto\orde\orde\bin\Debug\orde.exe.config
+E:\1 Infor\Proyecto\orde\orde\bin\Debug\orde.exe
+E:\1 Infor\Proyecto\orde\orde\bin\Debug\orde.pdb
+E:\1 Infor\Proyecto\orde\orde\obj\Debug\orde.exe
+E:\1 Infor\Proyecto\orde\orde\obj\Debug\orde.pdb
+C:\Users\fr561\Desktop\Victor\Victor\orde\orde\orde\obj\Debug\orde.csproj.AssemblyReference.cache
+C:\Users\fr561\Desktop\Victor\Victor\orde\orde\orde\obj\Debug\orde.Form1.resources
+C:\Users\fr561\Desktop\Victor\Victor\orde\orde\orde\obj\Debug\orde.Properties.Resources.resources
+C:\Users\fr561\Desktop\Victor\Victor\orde\orde\orde\obj\Debug\orde.csproj.GenerateResource.cache
+C:\Users\fr561\Desktop\Victor\Victor\orde\orde\orde\obj\Debug\orde.csproj.CoreCompileInputs.cache
+C:\Users\fr561\Desktop\Victor\Victor\orde\orde\orde\obj\Debug\orde.exe
+C:\Users\fr561\Desktop\Victor\Victor\orde\orde\orde\obj\Debug\orde.pdb
